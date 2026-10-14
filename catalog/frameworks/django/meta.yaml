@@ -1,0 +1,11 @@
+id: django
+name: Django
+name_zh: Django
+summary_zh: 全功能 Python Web 框架，含 ORM、Admin、认证与迁移。
+status: draft
+dimension: frameworks
+group: django
+tags: [python, web, orm]
+official_url: https://www.djangoproject.com/
+repo_url: https://github.com/django/django
+updated: 2026-10-14

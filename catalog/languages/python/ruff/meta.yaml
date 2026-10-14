@@ -1,0 +1,11 @@
+id: ruff
+name: Ruff
+name_zh: Ruff
+summary_zh: 极速 Python linter 与格式化工具。
+status: draft
+dimension: languages
+group: python
+tags: [python, lint, format]
+official_url: https://docs.astral.sh/ruff/
+repo_url: https://github.com/astral-sh/ruff
+updated: 2026-10-14

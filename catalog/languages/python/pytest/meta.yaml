@@ -1,0 +1,11 @@
+id: pytest
+name: pytest
+name_zh: pytest
+summary_zh: Python 测试框架，简洁断言与丰富插件生态。
+status: draft
+dimension: languages
+group: python
+tags: [python, testing]
+official_url: https://docs.pytest.org/
+repo_url: https://github.com/pytest-dev/pytest
+updated: 2026-10-14

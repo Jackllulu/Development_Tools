@@ -1,0 +1,14 @@
+# Poetry 风格依赖片段（可复制参考）
+[tool.poetry]
+name = "hello-poetry"
+version = "0.1.0"
+description = "demo"
+authors = ["Demo <demo@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

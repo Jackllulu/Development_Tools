@@ -1,0 +1,11 @@
+id: pydantic
+name: Pydantic
+name_zh: Pydantic
+summary_zh: 基于类型注解的运行时数据校验与序列化库。
+status: draft
+dimension: frameworks
+group: pydantic
+tags: [python, validation, typing]
+official_url: https://docs.pydantic.dev/
+repo_url: https://github.com/pydantic/pydantic
+updated: 2026-10-14

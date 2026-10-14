@@ -1,0 +1,11 @@
+id: sqlalchemy
+name: SQLAlchemy
+name_zh: SQLAlchemy
+summary_zh: Python SQL 工具包与 ORM，广泛用于 Web 数据访问层。
+status: draft
+dimension: frameworks
+group: sqlalchemy
+tags: [python, orm, sql, database]
+official_url: https://www.sqlalchemy.org/
+repo_url: https://github.com/sqlalchemy/sqlalchemy
+updated: 2026-10-14

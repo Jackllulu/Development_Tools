@@ -1,0 +1,11 @@
+id: flask
+name: Flask
+name_zh: Flask
+summary_zh: 轻量 Python Web 微框架，核心小、扩展灵活。
+status: draft
+dimension: frameworks
+group: flask
+tags: [python, web]
+official_url: https://flask.palletsprojects.com/
+repo_url: https://github.com/pallets/flask
+updated: 2026-10-14

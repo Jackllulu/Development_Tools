@@ -1,0 +1,11 @@
+id: uv
+name: uv
+name_zh: uv
+summary_zh: 极速 Python 包与项目管理工具（安装、锁文件、虚拟环境）。
+status: draft
+dimension: languages
+group: python
+tags: [python, packaging, venv]
+official_url: https://docs.astral.sh/uv/
+repo_url: https://github.com/astral-sh/uv
+updated: 2026-10-14

@@ -1,0 +1,11 @@
+id: pip
+name: pip
+name_zh: pip
+summary_zh: Python 官方包安装器，从 PyPI 安装与管理发行包。
+status: draft
+dimension: languages
+group: python
+tags: [python, packaging, pypi]
+official_url: https://pip.pypa.io/
+repo_url: https://github.com/pypa/pip
+updated: 2026-10-14

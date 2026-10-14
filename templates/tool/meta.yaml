@@ -1,0 +1,13 @@
+# Optional — GitHub browsing does not require this file.
+# Keep fields in sync with the tool directory path when present.
+id: tool-slug
+name: Tool Name
+name_zh: 工具名称
+summary_zh: 一句话说明该工具做什么。
+status: stub # stub | draft | ready
+dimension: languages # languages | frameworks | domains
+group: group-slug
+tags: []
+official_url: ""
+repo_url: ""
+updated: 2026-10-13

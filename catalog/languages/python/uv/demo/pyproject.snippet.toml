@@ -1,0 +1,8 @@
+# 可复制片段：展示 uv/标准项目依赖写法（非完整项目）
+[project]
+name = "hello-uv"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31",
+]
