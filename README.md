@@ -4,7 +4,7 @@
 
 **没有独立对外网站。** 请直接在 GitHub 上通过本 README 与 [`catalog/`](catalog/) 下的 `_index.md` 浏览；需要动手时 `git clone` 后进入对应工具的 `demo/`。
 
-架构与规范已按「仅 GitHub 目录」对齐。已有一批 **Python 常用工具与框架** 条目（`draft`）：见 [`catalog/languages/python/`](catalog/languages/python/) 与 [`catalog/frameworks/`](catalog/frameworks/)（Django / Flask / FastAPI / SQLAlchemy）。其余语言与领域分组仍多为占位。
+架构与规范已按「仅 GitHub 目录」对齐。已有一批 **Python 常用工具与框架** 条目（`draft`）：见 [`catalog/languages/python/`](catalog/languages/python/) 与 [`catalog/frameworks/`](catalog/frameworks/)（Django / Flask / FastAPI / SQLAlchemy / Pydantic）。其余语言与领域分组仍多为占位。
 
 ---
 
@@ -57,8 +57,8 @@ scripts/        可选校验与脚手架脚本占位
 
 ## 分类速览
 
-- **languages/** — 语言生态工具（包管理、测试、格式化等）；Python 已收录 pip、uv、Poetry、pytest、Ruff、Black、mypy、IPython、Jupyter
-- **frameworks/** — 框架绑定工具链与脚手架；已收录 Django、Flask、FastAPI、SQLAlchemy
+- **languages/** — 语言生态工具（包管理、测试、格式化等）；Python 已收录 pip、uv、Poetry、pytest、Ruff、Black、mypy、IPython、Jupyter、pre-commit、Requests
+- **frameworks/** — 框架绑定工具链与脚手架；已收录 Django、Flask、FastAPI、SQLAlchemy、Pydantic
 - **domains/** — 跨语言场景（web、devops、data、ai-ml 等）
 
 ---

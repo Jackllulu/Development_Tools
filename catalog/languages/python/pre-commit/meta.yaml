@@ -1,0 +1,11 @@
+id: pre-commit
+name: pre-commit
+name_zh: pre-commit
+summary_zh: Git hook 框架，提交前统一跑 lint/format 等检查。
+status: draft
+dimension: languages
+group: python
+tags: [python, git, hooks, lint]
+official_url: https://pre-commit.com/
+repo_url: https://github.com/pre-commit/pre-commit
+updated: 2026-10-14

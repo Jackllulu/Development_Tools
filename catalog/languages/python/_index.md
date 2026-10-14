@@ -17,3 +17,5 @@ Python 语言生态下的开发工具：包管理、测试、格式化、类型�
 | mypy | [mypy/](./mypy/) | 静态类型检查 | draft |
 | IPython | [ipython/](./ipython/) | 增强型交互 shell | draft |
 | Jupyter | [jupyter/](./jupyter/) | Notebook / Lab | draft |
+| pre-commit | [pre-commit/](./pre-commit/) | Git hook 质量门禁 | draft |
+| Requests | [requests/](./requests/) | 同步 HTTP 客户端 | draft |

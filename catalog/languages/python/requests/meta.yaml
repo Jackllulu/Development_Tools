@@ -1,0 +1,11 @@
+id: requests
+name: Requests
+name_zh: Requests
+summary_zh: Python 事实标准的同步 HTTP 客户端库。
+status: draft
+dimension: languages
+group: python
+tags: [python, http, client]
+official_url: https://requests.readthedocs.io/
+repo_url: https://github.com/psf/requests
+updated: 2026-10-14

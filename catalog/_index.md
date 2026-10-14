@@ -10,7 +10,7 @@
 
 ## 当前内容种子（Python）
 
-- **语言工具**：[`languages/python/`](./languages/python/) — pip、uv、Poetry、pytest、Ruff、Black、mypy、IPython、Jupyter
-- **框架**：[`frameworks/`](./frameworks/) — Django、Flask、FastAPI、SQLAlchemy
+- **语言工具**：[`languages/python/`](./languages/python/) — pip、uv、Poetry、pytest、Ruff、Black、mypy、IPython、Jupyter、pre-commit、Requests
+- **框架**：[`frameworks/`](./frameworks/) — Django、Flask、FastAPI、SQLAlchemy、Pydantic
 
 其余分组多为占位。架构说明见 [`docs/project-architecture.md`](../docs/project-architecture.md)。无独立网站——请用本文件与分组 `_index.md` 导航。

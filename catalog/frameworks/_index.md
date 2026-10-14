@@ -10,5 +10,6 @@
 | Flask | [flask/](./flask/) | Python Web 微框架 |
 | FastAPI | [fastapi/](./fastapi/) | 现代 Python API 框架 |
 | SQLAlchemy | [sqlalchemy/](./sqlalchemy/) | Python SQL 工具包与 ORM |
+| Pydantic | [pydantic/](./pydantic/) | 运行时数据校验与序列化 |
 | React | [react/](./react/) | React 生态工具（占位） |
 | Next.js | [nextjs/](./nextjs/) | Next.js 相关工具（占位） |
