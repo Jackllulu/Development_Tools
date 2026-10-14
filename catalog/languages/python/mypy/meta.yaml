@@ -1,0 +1,11 @@
+id: mypy
+name: mypy
+name_zh: mypy
+summary_zh: Python 静态类型检查器，基于类型注解发现接口错误。
+status: draft
+dimension: languages
+group: python
+tags: [python, typing]
+official_url: https://mypy.readthedocs.io/
+repo_url: https://github.com/python/mypy
+updated: 2026-10-14

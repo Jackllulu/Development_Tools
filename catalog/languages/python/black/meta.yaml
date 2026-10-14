@@ -1,0 +1,11 @@
+id: black
+name: Black
+name_zh: Black
+summary_zh: 意见明确的 Python 代码格式化工具。
+status: draft
+dimension: languages
+group: python
+tags: [python, format]
+official_url: https://black.readthedocs.io/
+repo_url: https://github.com/psf/black
+updated: 2026-10-14

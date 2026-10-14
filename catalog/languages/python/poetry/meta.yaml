@@ -1,0 +1,11 @@
+id: poetry
+name: Poetry
+name_zh: Poetry
+summary_zh: Python 依赖管理与打包工具（pyproject.toml + 锁文件）。
+status: draft
+dimension: languages
+group: python
+tags: [python, packaging]
+official_url: https://python-poetry.org/
+repo_url: https://github.com/python-poetry/poetry
+updated: 2026-10-14

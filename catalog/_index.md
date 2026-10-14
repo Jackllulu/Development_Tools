@@ -8,4 +8,9 @@
 | 常见框架 | [frameworks/](./frameworks/) | 框架官方工具链与强绑定周边 |
 | 应用领域 | [domains/](./domains/) | 跨语言场景：web、devops、data、ai-ml 等 |
 
-当前多为空分组占位，尚无完整工具正文。架构说明见 [`docs/project-architecture.md`](../docs/project-architecture.md)。无独立网站——请用本文件与分组 `_index.md` 导航。
+## 当前内容种子（Python）
+
+- **语言工具**：[`languages/python/`](./languages/python/) — pip、uv、Poetry、pytest、Ruff、Black、mypy、IPython、Jupyter
+- **框架**：[`frameworks/`](./frameworks/) — Django、Flask、FastAPI、SQLAlchemy
+
+其余分组多为占位。架构说明见 [`docs/project-architecture.md`](../docs/project-architecture.md)。无独立网站——请用本文件与分组 `_index.md` 导航。

@@ -1,0 +1,11 @@
+id: jupyter
+name: Jupyter
+name_zh: Jupyter
+summary_zh: 浏览器交互式计算（Notebook / JupyterLab），适合探索与教学。
+status: draft
+dimension: languages
+group: python
+tags: [python, notebook, data]
+official_url: https://jupyter.org/
+repo_url: https://github.com/jupyter/notebook
+updated: 2026-10-14

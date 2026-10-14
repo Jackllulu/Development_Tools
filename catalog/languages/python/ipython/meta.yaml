@@ -1,0 +1,11 @@
+id: ipython
+name: IPython
+name_zh: IPython
+summary_zh: 增强型交互式 Python shell，含补全与魔法命令。
+status: draft
+dimension: languages
+group: python
+tags: [python, repl]
+official_url: https://ipython.org/
+repo_url: https://github.com/ipython/ipython
+updated: 2026-10-14

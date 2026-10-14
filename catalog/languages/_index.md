@@ -6,7 +6,7 @@
 
 | 分组 | 路径 | 说明 |
 |------|------|------|
-| Python | [python/](./python/) | Python 生态工具（占位） |
+| Python | [python/](./python/) | 包管理、测试、格式化、类型检查、交互环境（已有条目） |
 | TypeScript | [typescript/](./typescript/) | TypeScript / JS 工具链（占位） |
 | Go | [go/](./go/) | Go 工具链（占位） |
 

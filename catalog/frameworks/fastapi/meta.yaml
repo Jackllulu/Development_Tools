@@ -1,0 +1,11 @@
+id: fastapi
+name: FastAPI
+name_zh: FastAPI
+summary_zh: 现代高性能 Python API 框架，基于类型注解与 OpenAPI。
+status: draft
+dimension: frameworks
+group: fastapi
+tags: [python, web, api, async]
+official_url: https://fastapi.tiangolo.com/
+repo_url: https://github.com/fastapi/fastapi
+updated: 2026-10-14
